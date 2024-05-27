@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "278342413830",
+    "project_id": "post-api-e1ceb",
+    "storage_bucket": "post-api-e1ceb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278342413830:android:cfef6d4a79e839dbd61d87",
+        "android_client_info": {
+          "package_name": "com.example.post_api"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQhLc1WrcIayzp3v7F6Otvi_JReiHzqj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
